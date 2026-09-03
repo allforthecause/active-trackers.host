@@ -1,7 +1,7 @@
 # ============================================================
-# active-trackers.hosts
-# Not a "malicious" list. Re-scan and update periodically.
-# Format: 0.0.0.0 <domain>   (matches typical pi-hole hosts.txt style)
+# active-trackers.host
+# Not a "malicious" list. Compliments existing default block list. 
+# Format: 0.0.0.0 <domain>
 # ~110 active entries.
 # ============================================================
 
