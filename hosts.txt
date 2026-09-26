@@ -65,8 +65,8 @@
 0.0.0.0 app.getsentry.com
 0.0.0.0 o0.ingest.sentry.io
 0.0.0.0 bam-cell.nr-data.net
-0.0.0.0 cdn.lr.ingest.com
-0.0.0.0 r.lr.ingest.com
+0.0.0.0 cdn.lr-ingest.com
+0.0.0.0 r.lr-ingest.com
 0.0.0.0 rum.browser-intake-datadoghq.com
 
 # --- SOCIAL TRACKERS ---
@@ -81,7 +81,7 @@
 0.0.0.0 pixel.quora.com
 0.0.0.0 qevents.quora.com
 0.0.0.0 px.srvcs.tumblr.com
-0.0.0.0 vk.com
+0.0.0.0 ads.vk.com
 
 # --- OEM VENDORS ---
 0.0.0.0 advertising.apple.com
@@ -116,10 +116,11 @@
 0.0.0.0 app.usercentrics.eu
 0.0.0.0 cmp.inmobi.com
 0.0.0.0 cmposano.com
+0.0.0.0 cmp.osano.com
 
 # --- AFFILIATE NETWORKS ---
 0.0.0.0 t.pepperjamnetwork.com
-0.0.0.0 www.awin1.com
+0.0.0.0 www.awin1.com 
 0.0.0.0 zenaps.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 partnerstack.com
@@ -132,7 +133,7 @@
 0.0.0.0 clientstream.launchdarkly.com
 0.0.0.0 click.mailchimp.com
 0.0.0.0 widget.intercom.io
-0.0.0.0 js.drift.com
+0.0.0.0 js.driftt.com
 0.0.0.0 api.onesignal.com
 0.0.0.0 customer.io
 
@@ -140,3 +141,6 @@
 0.0.0.0 dai.google.com
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 ssl.p.jwpcdn.com
+
+# -- RISKY HOST CHECKS ---
+0.0.0.0 mineralt.io
