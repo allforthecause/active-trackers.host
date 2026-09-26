@@ -24,6 +24,7 @@
 0.0.0.0 pangleglobal.com
 0.0.0.0 *.x3mads.com
 0.0.0.0 *.media-lab.ai
+0.0.0.0 amazinglea.com
 
 # --- ANALYTICS ---
 0.0.0.0 api.mouseflow.com
